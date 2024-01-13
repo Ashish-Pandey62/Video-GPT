@@ -1,0 +1,330 @@
+[
+  {
+    "video_id": "dQw4w9WgXcQ",
+    "caption_text": "Never gonna give you up, never gonna let you down.",
+    "question": "What is the singer promising to never do?",
+    "answer": "Give you up or let you down."
+  },
+  {
+    "video_id": "9bZkp7q19f0",
+    "caption_text": "Gangnam Style! Oppan Gangnam Style!",
+    "question": "What is the name of the dance style mentioned in the video?",
+    "answer": "Gangnam Style"
+  },
+  {
+    "video_id": "oHg5SJYRHA0",
+    "caption_text": "Rick Astley - Never Gonna Give You Up (Official Music Video)",
+    "question": "Who is the artist performing in the video?",
+    "answer": "Rick Astley"
+  },
+  {
+    "video_id": "oHg5SJYRHA0",
+    "caption_text": "The video features Astley dancing in a white suit.",
+    "question": "What is the singer wearing in the video?",
+    "answer": "A white suit"
+  },
+
+  {
+    "video_id": "dQw4w9WgXcQ",
+    "caption_text": "Never gonna give you up, never gonna let you down. Never gonna run around and desert you.",
+    "question": "What are the three things the singer promises to never do?",
+    "answer": "Give you up, let you down, and desert you."
+  },
+  {
+    "video_id": "9bZkp7q19f0",
+    "caption_text": "Oppan Gangnam Style! Gangnam Style!",
+    "question": "What does 'Oppan Gangnam Style' mean?",
+    "answer": "It's a Korean phrase that roughly translates to 'Big brother is Gangnam Style.'"
+  },
+  {
+    "video_id": "oHg5SJYRHA0",
+    "caption_text": "Rick Astley's iconic music video for 'Never Gonna Give You Up' features the singer dancing in a white suit.",
+    "question": "What color suit is Rick Astley wearing in the video?",
+    "answer": "A white suit"
+  },
+  {
+    "video_id": "oHg5SJYRHA0",
+    "caption_text": "The video has become a popular internet meme known as 'rickrolling'.",
+    "question": "What is rickrolling?",
+    "answer": "It's a prank where someone tricks you into watching the 'Never Gonna Give You Up' video."
+  },
+  {
+    "video_id": "L254v54_54Q",
+    "caption_text": "This video provides a tutorial on how to bake a delicious chocolate cake.",
+    "question": "What ingredients are needed for the cake?",
+    "answer": "Flour, sugar, cocoa powder, eggs, milk, butter, and baking soda."
+  },
+  {
+    "video_id": "7rE_FG2d54W",
+    "caption_text": "The physics professor explains the concept of gravity in this educational video.",
+    "question": "What is gravity?",
+    "answer": "It's the force that attracts objects with mass towards each other."
+  },
+  
+
+  {
+    "video_id": "zD8zH9n7vks",
+    "caption_text": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers over an area of approximately 344,400 square kilometers.",
+    "question": "What is the approximate length of the Great Barrier Reef?",
+    "answer": "Over 2,300 kilometers"
+  },
+  {
+    "video_id": "7W23tCb_23W",
+    "caption_text": "The International Space Station orbits Earth at an average speed of 17,500 miles per hour, completing one orbit every 90 minutes.",
+    "question": "How long does it take the International Space Station to orbit Earth once?",
+    "answer": "90 minutes"
+  },
+  {
+    "video_id": "vG4_Wq728v0",
+    "caption_text": "The population of the Earth is estimated to be around 8 billion people, with over half living in Asia.",
+    "question": "What is the approximate population of Earth?",
+    "answer": "8 billion"
+  },
+  {
+    "video_id": "lpkP4lMnkp0",
+    "caption_text": "The Mona Lisa, painted by Leonardo da Vinci, is one of the most famous paintings in the world, known for its enigmatic smile and mysterious background.",
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "video_id": "34Wqsxcv9zx",
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "video_id": "89v734nf8n3",
+    "caption_text": "The Olympic Games are a major international sporting event held every four years, featuring athletes from all over the world competing in a variety of sports.",
+    "question": "How often are the Olympic Games held?",
+    "answer": "Every four years"
+  }
+  ,
+  
+  {
+    "video_id": "dQw4w9WgXcQ",
+    "caption_text": "In the iconic music video for 'Never Gonna Give You Up', Rick Astley performs a smooth dance routine alongside a cast of energetic backup dancers.",
+    "question": "What specific dance move does Rick Astley perform in the video?",
+    "answer": "The 'running man'"
+  },
+  {
+    "video_id": "1q81z_6nJ68",
+    "caption_text": "This cooking tutorial demonstrates how to make delicious homemade pasta from scratch, showing the kneading, rolling, and shaping techniques.",
+    "question": "What is the key ingredient for achieving a smooth and elastic pasta dough?",
+    "answer": "Eggs"
+  },
+  {
+    "video_id": "mNBv_734k98",
+    "caption_text": "The documentary explores the fascinating history of ancient Egypt, delving into the lives of pharaohs, the construction of pyramids, and the development of their unique hieroglyphic writing system.",
+    "question": "What were the pyramids primarily used for in ancient Egypt?",
+    "answer": "As tombs for pharaohs"
+  },
+  {
+    "video_id": "Xz_12nWq34n",
+    "caption_text": "This travel vlog takes viewers on a breathtaking journey through the lush rainforests of Borneo, showcasing the diverse wildlife and stunning scenery.",
+    "question": "What is a unique animal commonly found in the rainforests of Borneo?",
+    "answer": "The orangutan"
+  },
+  {
+    "video_id": "9W34_nXz89v",
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "video_id": "783n4nf934k",
+    "caption_text": "The animation movie features a group of mischievous characters embarking on a hilarious adventure filled with slapstick humor and witty dialogue.",
+    "question": "What genre is the movie most likely to be?",
+    "answer": "Comedy"
+  },
+  {
+    "video_id": "dQw4w9WgXcQ",
+    "caption_text": "Rick Astley's iconic music video for 'Never Gonna Give You Up' features the singer performing in a variety of settings, including a city street, a warehouse, and a dance studio.",
+    "question": "How many different locations are featured in the music video?",
+    "answer": "At least three"
+  },
+  {
+    "video_id": "9bZkp7q19f0",
+    "caption_text": "The music video for 'Gangnam Style' by PSY features the singer performing a signature dance move that quickly went viral and became a global phenomenon.",
+    "question": "What is the name of the dance move that PSY popularized in the video?",
+    "answer": "The horse-riding dance"
+  },
+  {
+    "video_id": "oHg5SJYRHA0",
+    "caption_text": "The music video for 'Never Gonna Give You Up' has become a popular internet meme known as 'rickrolling', where people are tricked into watching the video unexpectedly.",
+    "question": "What is the term for the internet prank of tricking someone into watching the 'Never Gonna Give You Up' video?",
+    "answer": "Rickrolling"
+  },
+  {
+    "video_id": "4Wq34n89v4",
+    "caption_text": "This tutorial video demonstrates how to change a flat tire on a car, outlining the steps involved and the tools required.",
+    "question": "What is the first step in changing a flat tire?",
+    "answer": "Loosening the lug nuts"
+  },
+  {
+    "video_id": "89n34nfn94",
+    "caption_text": "This documentary explores the history of the Roman Empire, covering its rise to power, its vast territories, and its eventual decline.",
+    "question": "What was the primary language spoken in the Roman Empire?",
+    "answer": "Latin"
+  },
+  {
+    "video_id": "784nfn3498",
+    "caption_text": "This highlight reel showcases the most impressive plays from the recent basketball game, featuring slam dunks, three-pointers, and skillful assists.",
+    "question": "What is the highest-scoring shot in basketball?",
+    "answer": "A three-pointer"
+  },
+  {
+    "video_id": "Wq34nWq34n",
+    "caption_text": "This comedy sketch features a group of friends attempting to bake a cake, but their efforts quickly descend into chaos and hilarity.",
+    "question": "What is the most likely outcome of the friends' baking attempt?",
+    "answer": "A disaster"
+  },
+  {
+    "video_id": "54Wq34nWq3",
+    "question": "What is the capital of China?",
+    "answer": "Beijing"
+  },
+  {
+    "video_id": "54nWq4Wq34",
+    "caption_text": "This animated movie follows the adventures of a group of animals who escape from the zoo and embark on a journey to return to the wild.",
+    "question": "What is the main goal of the animals in the movie?",
+    "answer": "To return to the wild"
+  },
+  {
+    "video_id": "2345678901",
+    "caption_text": "This video provides a detailed explanation of the theory of relativity, including its key concepts and implications.",
+    "question": "Who developed the theory of relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "video_id": "4567890123",
+    "caption_text": "This cooking tutorial demonstrates how to make a delicious chicken stir-fry, listing the ingredients and cooking steps involved.",
+    "question": "What is the main protein ingredient in the chicken stir-fry?",
+    "answer": "Chicken"
+  },
+  {
+    "video_id": "u8v73k984nf",
+    "caption_text": "This ASMR video features the soothing sounds of waves gently lapping on a sandy beach, interspersed with the cries of seagulls and the distant rumble of the ocean.",
+    "question": "What type of sensory experience does this video primarily focus on?",
+    "answer": "ASMR"
+  },
+  {
+    "video_id": "34n89v7nWq3",
+    "caption_text": "This historical documentary explores the ancient Mayan civilization, delving into their intricate calendar system, advanced architecture, and mysterious hieroglyphs.",
+    "question": "What was the primary material used by the Mayans to construct their pyramids and temples?",
+    "answer": "Stone"
+  },
+  {
+    "video_id": "98u34nf9k4n",
+    "caption_text": "This TED Talk by renowned scientist Jane Goodall highlights the intelligence and emotional complexity of chimpanzees, challenging traditional views of primate behavior.",
+    "question": "What is the main argument presented by Jane Goodall in this TED Talk?",
+    "answer": "That chimpanzees exhibit advanced cognitive abilities and emotions."
+  },
+  {
+    "video_id": "7nWq34n89v4",
+    "caption_text": "This travel vlog takes viewers on a tour of the bustling streets of Tokyo, showcasing the neon lights, iconic landmarks, and unique cultural experiences of the Japanese capital.",
+    "question": "What is a must-try food for visitors to Tokyo?",
+    "answer": "Sushi"
+  },
+  {
+    "video_id": "89vn4k93nf4",
+    "caption_text": "This viral video captures the heartwarming moment a lost puppy is reunited with its overjoyed owner after being separated for days.",
+    "question": "What emotion is most likely depicted in the owner's reaction upon seeing the puppy?",
+    "answer": "Joy and relief"
+  },
+  {
+    "video_id": "f908j23kf09j",
+    "caption_text": "This parkour video showcases a group of skilled athletes performing daring jumps, flips, and tricks as they navigate urban obstacles with graceful agility.",
+    "question": "What is the primary athletic skill displayed in parkour?",
+    "answer": "Free running"
+  },
+  {
+    "video_id": "l23kjf09w823",
+    "caption_text": "This stand-up comedy routine by Sarah Silverman features the comedian's witty observations on everyday life, relationships, and societal norms, delivered with her signature blend of sarcasm and humor.",
+    "question": "What is Sarah Silverman's comedic style most known for?",
+    "answer": "Observational humor and dark comedy"
+  },
+  {
+    "video_id": "9238jf092kf3",
+    "question": "What is the largest country in the world by land area?",
+    "answer": "Russia"
+  },
+  {
+    "video_id": "f092l3kjf238",
+    "caption_text": "This nature documentary follows the majestic journey of a family of humpback whales as they migrate across vast oceans in search of food and breeding grounds.",
+    "question": "What type of vocalizations do humpback whales use to communicate with each other?",
+    "answer": "Songs"
+  },
+  {
+    "video_id": "23f09k23fj98",
+    "caption_text": "This timelapse video captures the awe-inspiring beauty of the northern lights dancing across the night sky, their vibrant colors and ethereal movements creating a mesmerizing spectacle.",
+    "question": "What scientific phenomenon causes the aurora borealis?",
+    "answer": "Charged particles from the sun interacting with Earth's atmosphere"
+  },
+  {
+    "video_id": "89f23ljf0923",
+    "caption_text": "This cooking tutorial demonstrates how to make a traditional Italian lasagna from scratch, layering pasta sheets with rich meat sauce, creamy béchamel, and gooey mozzarella cheese.",
+    "question": "What are the three main ingredients in a classic lasagna?",
+    "answer": "Pasta, meat sauce, and béchamel sauce"
+  },
+  
+
+ {
+    "video_id": "n4k938hf0923",
+    "caption_text": "This fascinating TED Talk explores the future of robotics and artificial intelligence, discussing the potential benefits and challenges of these rapidly evolving technologies.",
+    "question": "What is the main concern raised by the speaker regarding the development of advanced AI?",
+    "answer": "The potential for AI to surpass human intelligence and become uncontrollable."
+  },
+  {
+    "video_id": "3k98f092k398",
+    "caption_text": "This comedic short film follows the misadventures of a group of office workers as they attempt to pull off a daring heist during their company's annual retreat.",
+    "question": "What is the most likely outcome of the office workers' heist attempt?",
+    "answer": "Hilarious chaos and comedic failure."
+  },
+  {
+    "video_9id": "89n4k93kf238",
+    "caption_text": "This mesmerizing dance performance combines traditional ballet with contemporary movement, creating a visually stunning and emotionally evocative piece.",
+    "question": "What is the predominant emotion conveyed by the dancers in this performance?",
+    "answer": "A mixture of beauty, grace, and vulnerability."
+  },
+  {
+    "video_id": "983f092l3kjf",
+    "caption_text": "This historical reenactment video brings to life the dramatic events of the Battle of Marathon, showcasing the strategies and tactics employed by the ancient Greeks and Persians.",
+    "question": "What was the decisive factor in the victory of the Greeks at the Battle of Marathon?",
+    "answer": "Their superior running tactics and use of hoplites."
+  },
+  {
+    "video_id": "f2398hf09k3n",
+    "caption_text": "This captivating timelapse video captures the bustling life of New York City, showcasing the energy, diversity, and iconic landmarks of the Big Apple.",
+    "question": "What is a famous nickname for New York City?",
+    "answer": "The City That Never Sleeps"
+  },
+  {
+    "video_id": "23kjf098f23l",
+    "caption_text": "This heartwarming documentary follows the journey of a young girl with a rare medical condition as she embarks on a life-changing adventure to fulfill her dream of becoming a musician.",
+    "question": "What is the main message conveyed by the documentary?",
+    "answer": "The power of resilience, optimism, and following your dreams."
+  },
+  {
+    "video_id": "92lkjf0923kf",
+    "question": "What is the capital of Germany?",
+    "answer": "Berlin"
+  },
+  {
+    "video_id": "f092k3lkjf23",
+    "caption_text": "This educational video explains the complex concept of black holes in a clear and engaging way, using animations and real-world examples to illustrate their properties.",
+    "question": "What happens to matter that enters a black hole?",
+    "answer": "It is compressed to an incredibly dense state and its fate is unknown."
+  },
+  {
+    "video_id": "23l2kjf098f2",
+    "caption_text": "This heartwarming video showcases the incredible bond between a dog and his owner, capturing their playful interactions and unwavering loyalty.",
+    "question": "What is the main reason why dogs make good companions for humans?",
+    "answer": "Their unconditional love, loyalty, and emotional support."
+  },
+  {
+    "video_id": "89f23lf092kj",
+    "caption_text": "This stop-motion animation tells a beautiful story about the relationship between a young girl and her grandmother, using charming characters and intricate craftsmanship.",
+    "question": "What is the main theme explored in the stop-motion animation?",
+    "answer": "Intergenerational love, family bonds, and the importance of memory."
+  }
+
+
+]
