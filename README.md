@@ -1,5 +1,6 @@
 
-VidGPT :
+# VidGPT 
+
 The project is an application that leverages the power of OpenAI's GPT models to provide a ChatGPT-like experience for YouTube videos with captions. Users can input YouTube video links, and the app extracts captions to facilitate a question-and-answer (QNA) interaction and users are allowed to compare between 2 YT videos so that users can choose the right video for their learning purpose and save much time. By utilizing the OpenAI API, the app seamlessly generates insightful answers to user queries related to the content of the provided videos. Enhance your engagement with YouTube content by exploring a conversational approach to video exploration and learning with VidGPT.
 
 
