@@ -3,20 +3,6 @@ import sys
 from  openai import OpenAI
 import os
 
-from youtube_transcript_api import YouTubeTranscriptApi
-
-def get_captions(video_url):
-    try:
-        video_id = video_url.split("v=")[1]
-        captions = YouTubeTranscriptApi.get_transcript(video_id)
-        return captions
-    except Exception as e:
-        print(f"Error: {e}")
-        return None
-
-
-
-
 
 
 
@@ -38,8 +24,7 @@ def main():
     st.title("Question Answering with Youtube Videos")
 
     # User input
-    uploaded_video = st.text_area("Upload your video ID here:", "")
-    captions = get_captions(uploaded_video)
+    uploaded_text = st.text_area("Upload your text here:", "")
 
     # Display a placeholder for the text and questions
     result_placeholder = st.empty()
@@ -55,7 +40,7 @@ def main():
         with st.spinner("Analyzing..."):
             if question:
                 # Run GPT-3 for question-answering
-                result = ask_gpt3(prompt=question, context=captions)
+                result = ask_gpt3(prompt=question, context=uploaded_text)
 
                 # Display the result
                 result_placeholder.subheader("Answer:")
