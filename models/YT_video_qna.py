@@ -1,7 +1,11 @@
 import streamlit as st
-from openai import OpenAI
-from youtube_transcript_api import YouTubeTranscriptApi
 import sys
+from  openai import OpenAI
+import os
+
+from youtube_transcript_api import YouTubeTranscriptApi
+
+
 
 def get_captions(video_url):
     try:
@@ -12,30 +16,32 @@ def get_captions(video_url):
         print(f"Error: {e}")
         return None
 
-client = OpenAI(api_key="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")
 
-def ask_gpt3(prompt, context1, context2):
+
+
+
+
+
+client = OpenAI(api_key="<YOUR_API_KEY>")
+
+
+def ask_gpt3(prompt, context):
     # Use GPT-3 to generate an answer
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",  
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"{context1}\n{prompt}"},
-            {"role": "assistant", "content": f"{context2}"}
+            {"role": "user", "content": f"{context}\n{prompt}"},
         ],
     )
+    # return response["choices"][0].message["content"].strip()
     return response.choices[0].message.content
-
 def main():
-    st.title("Comparing 2 YT videos")
+    st.title("Question Answering with Youtube Videos")
 
-    # User input -1 
-    uploaded_video_1 = st.text_area("Upload your video 1 ID here:", "")
-    captions1 = get_captions(uploaded_video_1)
-    
-    # User input -2 
-    uploaded_video_2 = st.text_area("Upload your video 2 ID here:", "")
-    captions2 = get_captions(uploaded_video_2)
+    # User input
+    uploaded_video = st.text_area("Upload your video ID here:", "")
+    captions = get_captions(uploaded_video)
 
     # Display a placeholder for the text and questions
     result_placeholder = st.empty()
@@ -50,8 +56,8 @@ def main():
         # Display a spinner during inference
         with st.spinner("Analyzing..."):
             if question:
-                
-                result = ask_gpt3(prompt=question, context1=captions1, context2=captions2)
+                # Run GPT-3 for question-answering
+                result = ask_gpt3(prompt=question, context=captions)
 
                 # Display the result
                 result_placeholder.subheader("Answer:")
